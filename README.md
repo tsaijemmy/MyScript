@@ -1,4 +1,4 @@
 # MyScript
-add by master
+fix by master
 add by bugFix
 
